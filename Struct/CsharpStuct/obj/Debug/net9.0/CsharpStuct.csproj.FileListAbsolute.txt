@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\bin\Debug\net9.0\CsharpStuct.exe
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\bin\Debug\net9.0\CsharpStuct.deps.json
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\bin\Debug\net9.0\CsharpStuct.runtimeconfig.json
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\bin\Debug\net9.0\CsharpStuct.dll
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\bin\Debug\net9.0\CsharpStuct.pdb
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.sourcelink.json
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.dll
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\refint\CsharpStuct.dll
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.pdb
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\CsharpStuct.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\Struct\CsharpStuct\obj\Debug\net9.0\ref\CsharpStuct.dll
