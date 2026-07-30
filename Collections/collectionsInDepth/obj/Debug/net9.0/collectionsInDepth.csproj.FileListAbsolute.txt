@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\bin\Debug\net9.0\collectionsInDepth.exe
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\bin\Debug\net9.0\collectionsInDepth.deps.json
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\bin\Debug\net9.0\collectionsInDepth.runtimeconfig.json
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\bin\Debug\net9.0\collectionsInDepth.dll
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\bin\Debug\net9.0\collectionsInDepth.pdb
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.sourcelink.json
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.dll
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\refint\collectionsInDepth.dll
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.pdb
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\collectionsInDepth.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\Collections\collectionsInDepth\obj\Debug\net9.0\ref\collectionsInDepth.dll
