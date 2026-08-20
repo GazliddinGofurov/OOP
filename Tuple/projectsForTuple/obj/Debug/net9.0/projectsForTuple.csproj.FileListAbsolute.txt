@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\bin\Debug\net9.0\projectsForTuple.exe
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\bin\Debug\net9.0\projectsForTuple.deps.json
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\bin\Debug\net9.0\projectsForTuple.runtimeconfig.json
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\bin\Debug\net9.0\projectsForTuple.dll
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\bin\Debug\net9.0\projectsForTuple.pdb
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.sourcelink.json
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.dll
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\refint\projectsForTuple.dll
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.pdb
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\projectsForTuple.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\Tuple\projectsForTuple\obj\Debug\net9.0\ref\projectsForTuple.dll
