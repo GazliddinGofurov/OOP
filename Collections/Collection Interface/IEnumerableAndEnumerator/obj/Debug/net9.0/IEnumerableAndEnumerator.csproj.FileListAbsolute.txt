@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\bin\Debug\net9.0\IEnumerableAndEnumerator.exe
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\bin\Debug\net9.0\IEnumerableAndEnumerator.deps.json
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\bin\Debug\net9.0\IEnumerableAndEnumerator.runtimeconfig.json
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\bin\Debug\net9.0\IEnumerableAndEnumerator.dll
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\bin\Debug\net9.0\IEnumerableAndEnumerator.pdb
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.sourcelink.json
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.dll
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\refint\IEnumerableAndEnumerator.dll
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.pdb
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\IEnumerableAndEnumerator.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\Collections\Collection Interface\IEnumerableAndEnumerator\obj\Debug\net9.0\ref\IEnumerableAndEnumerator.dll

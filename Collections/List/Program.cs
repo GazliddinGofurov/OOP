@@ -47,6 +47,7 @@ namespace _List
             */
 
             // task4 
+            /*
             List<string>names = new List<string>()
             {
                 "Alex",
@@ -77,6 +78,7 @@ namespace _List
             {
                 Console.WriteLine(ele);
             }
+            */
           
         }
 

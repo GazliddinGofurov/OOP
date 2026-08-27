@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projectsForTuple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cc3df675ca50045ee375dd0e22127fb2acfbe1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b63e52fba35e09eb5abb74b840ce83839bb7f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("projectsForTuple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projectsForTuple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
