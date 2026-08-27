@@ -1,0 +1,15 @@
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\bin\Debug\net10.0\tasks.exe
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\bin\Debug\net10.0\tasks.deps.json
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\bin\Debug\net10.0\tasks.runtimeconfig.json
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\bin\Debug\net10.0\tasks.dll
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\bin\Debug\net10.0\tasks.pdb
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.AssemblyInfoInputs.cache
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.AssemblyInfo.cs
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.sourcelink.json
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.dll
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\refint\tasks.dll
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.pdb
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\tasks.genruntimeconfig.cache
+C:\Users\frank\Desktop\OOP\NullableTypes\tasks\obj\Debug\net10.0\ref\tasks.dll

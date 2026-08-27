@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frank\\Desktop\\OOP\\Abstraction\\task7\\task7.csproj",
-      "projectName": "task7",
-      "projectPath": "C:\\Users\\frank\\Desktop\\OOP\\Abstraction\\task7\\task7.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\Desktop\\OOP\\NullableTypes\\tasks\\tasks.csproj",
+      "projectName": "tasks",
+      "projectPath": "C:\\Users\\frank\\Desktop\\OOP\\NullableTypes\\tasks\\tasks.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frank\\Desktop\\OOP\\Abstraction\\task7\\obj\\",
+      "outputPath": "C:\\Users\\frank\\Desktop\\OOP\\NullableTypes\\tasks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.303/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
