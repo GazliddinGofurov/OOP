@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.AssemblyInfo.cs
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.sourcelink.json
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\bin\Debug\net9.0\tasks2.exe
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\bin\Debug\net9.0\tasks2.deps.json
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\bin\Debug\net9.0\tasks2.runtimeconfig.json
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\bin\Debug\net9.0\tasks2.dll
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\bin\Debug\net9.0\tasks2.pdb
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.dll
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\refint\tasks2.dll
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.pdb
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\tasks2.genruntimeconfig.cache
+C:\Users\user\Desktop\OOP\NullableTypes\tasks2\obj\Debug\net9.0\ref\tasks2.dll
