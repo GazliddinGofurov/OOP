@@ -38,9 +38,6 @@ namespace _DelegateTask4
             Console.WriteLine("Adding 0.2 points for each students GPA\n");
             ProcessStudent(students,action);
 
-
-
-        
              Console.WriteLine("Action C\n");
              ProcessStudent(students,actionC);
 
